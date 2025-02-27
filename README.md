@@ -259,3 +259,10 @@ We welcome contributions! Here's how you can help:
 - Add comments for complex logic
 - Update documentation for changes
 - Add tests for new features
+
+
+
+
+
+
+pnpm start --characters="characters/colygon.character.json"
